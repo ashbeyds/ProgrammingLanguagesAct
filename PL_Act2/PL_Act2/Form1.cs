@@ -101,7 +101,7 @@ namespace PL_Act2
                     clearanceApproval = "Denied";
                 }
             }
-            else if (clearanceType == "Full") ;
+            else if (clearanceType == "Full")
             {
                 if (payment == "Full" && disciplinaryMethod == "No" && average >= 75)
                 {
