@@ -8,3 +8,14 @@ C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\De
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.exe
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.pdb
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\Debug\PL_Act2.exe.config
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\Debug\PL_Act2.exe
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\Debug\PL_Act2.pdb
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.AssemblyReference.cache
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.exe.config
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.Form1.resources
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.Properties.Resources.resources
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.GenerateResource.cache
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.CoreCompileInputs.cache
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.exe
+C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.pdb
