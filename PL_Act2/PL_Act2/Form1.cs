@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace PL_Act2
 {
-    public partial class Form1 : Form
+    public partial class act2 : Form
     {
-        public Form1()
+        public act2()
         {
             InitializeComponent();
         }
@@ -134,12 +134,12 @@ namespace PL_Act2
             string finalRisk = (academicStanding == "At Risk" || attendanceStatus == "Critical" || disciplinaryMethod == "Yes")? "High Risk" : "Low Risk";
 
 
-            MessageBox.Show($"Name:{FName.Text} \n" +
-                                $"Academic Standing:{academicStanding}\n" +
-                                $"Attendance Status:{attendanceStatus}\n" +
-                                $"Clearance Result:{clearanceApproval}\n" +
-                                $"Privelege Level:{privilegeLvl}\n" +
-                                $"Final Risk:{finalRisk}"); 
+            MessageBox.Show($"Name:  {FName.Text} \n" +
+                                $"Academic Standing:  {academicStanding}\n" +
+                                $"Attendance Status:  {attendanceStatus}\n" +
+                                $"Clearance Result:  {clearanceApproval}\n" +
+                                $"Privelege Level:  {privilegeLvl}\n" +
+                                $"Final Risk:  {finalRisk}"); 
         }
     }
 }

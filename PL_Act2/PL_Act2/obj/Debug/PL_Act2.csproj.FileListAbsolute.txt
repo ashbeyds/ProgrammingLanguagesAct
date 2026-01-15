@@ -2,7 +2,6 @@ C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\De
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\Debug\PL_Act2.exe
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\Debug\PL_Act2.pdb
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.Form1.resources
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.Properties.Resources.resources
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.GenerateResource.cache
 C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.CoreCompileInputs.cache
@@ -19,3 +18,8 @@ C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL
 C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.CoreCompileInputs.cache
 C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.exe
 C:\Users\misuc\Source\Repos\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.pdb
+C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\Debug\Guna.UI2.dll
+C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.csproj.Up2Date
+C:\Users\PC\source\repos\ashbeyds\ProgrammingLanguagesAct\PL_Act2\PL_Act2\obj\Debug\PL_Act2.act2.resources
