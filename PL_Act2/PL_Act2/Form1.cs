@@ -20,7 +20,7 @@ namespace PL_Act2
 
         private void SubmitBtn_Click(object sender, EventArgs e)
         {
-            int age, gradeLvl, average, absences;
+            int age, average, absences;
             string academicStanding, attendanceStatus, privilegeLvl = "", clearanceApproval = "";
             string clearanceType = Clearance.Text, payment = Payment.Text, disciplinaryMethod = DisciplinaryMethod.Text;
             //1
@@ -51,10 +51,21 @@ namespace PL_Act2
                 return;
             }
             //2
-            gradeLvl = GradeLvl.SelectedIndex + 7;
-            if ((age < 12 && gradeLvl >= 10) || (age >= 18 && gradeLvl <= 8)) {
-                MessageBox.Show("Invalid Record", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
+            if (age < 12)
+            {
+                if (GradeLvl.Text == "Grade 10" || GradeLvl.Text == "Grade 11" || GradeLvl.Text == "Grade 12")
+                {
+                    MessageBox.Show("Invalid Age and Grade", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
+            }
+            if (age >= 18)
+            {
+                if (GradeLvl.Text == "Grade 7" || GradeLvl.Text == "Grade 8")
+                {
+                    MessageBox.Show("Invalid Age and Grade", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return;
+                }
             }
             //3
             if (average >= 90) {
@@ -113,18 +124,18 @@ namespace PL_Act2
                 }
             }
             //6
-            switch (gradeLvl)
+            switch (GradeLvl.Text)
             {
-                case 7:
-                case 8:
+                case "Grade 7":
+                case "Grade 8":
                     privilegeLvl = "Basic Privileges";
                     break;
-                case 9:
-                case 10:
-                    privilegeLvl = "Intermidiate Privileges";
+                case "Grade 9":
+                case "Grade 10":
+                    privilegeLvl = "Intermediate Privileges";
                     break;
-                case 11:
-                case 12:
+                case "Grade 11":
+                case "Grade 12":
                     privilegeLvl = "Advanced Privileges";
                     break;
                 default:
